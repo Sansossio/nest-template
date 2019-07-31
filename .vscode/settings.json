@@ -1,0 +1,14 @@
+{
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "line-counter.excludes": [
+    "**/.vscode/**",
+    "**/node_modules/**",
+    "**/dist/**"
+  ],
+  "line-counter.includes": [
+    "**/src/**"
+  ]
+}
